@@ -41,7 +41,7 @@ endfunc
 
 
 func sound_alarm($input)
-	Beep(500, 10000)
+	Beep(500, 3000)
 	msgbox(1,'ALARM', $alarm_text[$input])
   
 endfunc
