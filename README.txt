@@ -1,7 +1,7 @@
 simple alarm script
 
-to add an alarm, open settings.txt and add a time and optional alarm message to a new line via the format:
-HH:MM<TAB>OPTIONALTEXT
+to add an alarm, open settings.txt and add a time and text message to a new line via the format:
+HH:MM<TAB>TEXT
 14:15	school bus alarm
 
 restart script if you make any changes to the alarms times
