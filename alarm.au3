@@ -6,6 +6,7 @@ local $alarm_text[0]
 $last_minute =0
 $minute = 0
 
+
 set_alarms()
 while true
 	$minute = @MIN
